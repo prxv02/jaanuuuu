@@ -36,31 +36,30 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "Because your smile can instantly make my day better. 💗",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
-        emoji: "💫",
+        text: "Because you always know how to make even the simplest moments fun. 🌸",
+        emoji: "🫶",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
-        emoji: "🌟",
+        text: "Because your laugh is honestly impossible not to smile at. 😂",
+        emoji: "💖",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make every moment special! 🎂",
-        emoji: "💖",
+        text: "Because you have this special way of making every moment memorable. ✨",
+        emoji: "🌷",
         gif: "gif2.gif"
     },
     {
-        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
-        emoji: "🎊",
+        text: "Because you're simply JANHAVII — and that's more than enough reason to celebrate you! 🎉",
+        emoji: "🥹",
         gif: "gif1.gif"
     }
-    // Add more reasons as needed!
 ];
 
 // State management
