@@ -104,7 +104,7 @@ h1 {
 
 .shuffle-button {
     /* CUSTOMIZE: Change button gradient */
-    background: linear-gradient(45deg, #ff69b4, #ff99cc);
+    background: linear-gradient(45deg, #ff4f9a, #ff85b3);
     border: none;
     border-radius: 50px;
     padding: 1rem 2rem;
@@ -119,7 +119,7 @@ h1 {
 
 .shuffle-button.story-mode {
     /* CUSTOMIZE: Change story mode button gradient */
-    background: linear-gradient(45deg, #9b6dff, #ff6dc7);
+   background: linear-gradient(45deg, #ff4f9a, #ff85b3);
     transform: scale(1.1);
 }
 
@@ -147,7 +147,7 @@ h1 {
     font-family: 'Bubblegum Sans', cursive;
     font-size: 2rem;
     /* CUSTOMIZE: Change ending text color */
-    color: #ff69b4;
+    color: #ff4f9a;
     margin-bottom: 2rem;
     opacity: 0;
     transform: translateY(20px);
@@ -167,7 +167,7 @@ h1 {
 .reason-counter {
     font-size: 0.9rem;
     /* CUSTOMIZE: Change counter color */
-    color: #ff69b4;
+    color: #ff4f9a;
     margin-top: 1rem;
     opacity: 0.7;
 }
@@ -239,7 +239,7 @@ h1 {
     width: 50px;
     height: 50px;
     /* CUSTOMIZE: Change back button gradient */
-    background: linear-gradient(45deg, #ff69b4, #ff99cc);
+    background: linear-gradient(45deg, #ff4f9a, #ff85b3);
     border-radius: 50%;
     display: flex;
     align-items: center;
