@@ -41,23 +41,23 @@ const reasons = [
         gif: "gif1.gif"
     },
     {
-        text: "Because you always know how to make even the simplest moments fun. 🌸",
-        emoji: "🫶",
+        text: "Because somehow, even our most random conversations became my favorite part of the day. 🫶",
+        emoji: "💕",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is honestly impossible not to smile at. 😂",
+        text: "Because you are the one person who can annoy me like crazy and still make me smile five minutes later. 😂",
         emoji: "💖",
         gif: "gif1.gif"
     },
     {
-        text: "Because you have this special way of making every moment memorable. ✨",
-        emoji: "🌷",
+        text: "Because every fight, every call, every laugh and every little moment with you became a memory I never want to lose. 🌷",
+        emoji: "🥹",
         gif: "gif2.gif"
     },
     {
-        text: "Because you're simply JANHAVII — and that's more than enough reason to celebrate you! 🎉",
-        emoji: "🥹",
+        text: "Because you're simply JANHAVII — my Jaanu, my Dwarfff, and someone who makes my life a little more beautiful. 🎉",
+        emoji: "💗",
         gif: "gif1.gif"
     }
 ];
