@@ -117,7 +117,7 @@ function displayNewReason() {
                 ease: "elastic.out",
                 onComplete: () => {
                     // CUSTOMIZE: Change button text
-                    shuffleButton.textContent = "Continue to Timeline 💫";
+                    shuffleButton.textContent = "Let's See Our Story 💗";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.addEventListener('click', () => {
                         gsap.to('body', {
@@ -156,7 +156,7 @@ shuffleButton.addEventListener('click', () => {
 
 // Floating elements function
 function createFloatingElement() {
-    const elements = ['🌸', '✨', '💖', '🦋', '⭐'];
+    const elements = ['💗', '💕', '🌷', '✨', '🫶'];
     const element = document.createElement('div');
     element.className = 'floating';
     element.textContent = elements[Math.floor(Math.random() * elements.length)];
